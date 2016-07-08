@@ -1,5 +1,5 @@
-Identicon generator
-===================
+Identicon generator 1.0.0
+=========================
 
 [Identicon](https://en.wikipedia.org/wiki/Identicon) generator.
 
@@ -12,8 +12,8 @@ Usage
 identicon <ID>
 ```
 
-Generates an identicon from the ID. Writes the SVG code to the standard output.
+Generates an identicon from an ID. Writes the SVG code to the standard output.
 
-The ID must be a string of 18 hexadecimal digits.
+An ID must be a string of 18 hexadecimal digits.
 
-It's easy to forge the identicon if the ID can be freely manipulated by an attacker. It's recommended to use an output of a cryptographic hash function.
+It's easy to forge an identicon if the ID can be freely manipulated by an attacker. It's recommended to use an output of a cryptographic hash function.

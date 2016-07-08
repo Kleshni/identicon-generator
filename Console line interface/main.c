@@ -34,11 +34,7 @@ int main(int argc, char **argv) {
 
 	identicon_create(identicon, ID);
 
-	if (puts(identicon) == EOF) {
-		fprintf(stderr, "%s: %s\n", argv[0], strerror(ferror(stdout)));
-
-		return EXIT_FAILURE;
-	}
+	puts(identicon);
 
 	return EXIT_SUCCESS;
 }

@@ -27,4 +27,4 @@ Links
 * [Git repository](https://github.com/Kleshni/identicon-generator.git).
 * [Issue tracker](https://github.com/Kleshni/identicon-generator/issues).
 * Bitmessage: BM-FHMGLusCyAEjonpwAYdxzfcyBszP.
-* Mail: [biryuzovye.kleshni@yandex.ru](mailto:biryuzovye.kleshni@yandex.ru).
+* Mail: [kleshni@protonmail.ch](mailto:kleshni@protonmail.ch).
