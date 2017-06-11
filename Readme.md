@@ -1,9 +1,9 @@
 Identicon generator
 ===================
 
-[Identicon](https://en.wikipedia.org/wiki/Identicon) generator [library](Library) and [console line intarface](Console line interface).
+[Identicon](https://en.wikipedia.org/wiki/Identicon) generator [library](library) and [console line intarface](tool).
 
-See the CLI [documentation](Console line interface/Documentation.md).
+See the CLI [documentation](tool/Documentation.md).
 
 Build
 -----
@@ -16,8 +16,8 @@ Run `make` in the library directory.
 
 Build the library and then make:
 
-``` Shell
-CPATH=../Library/ LIBRARY_PATH=../Library/ make
+```
+CPATH=../library/ LIBRARY_PATH=../library/ make
 ```
 
 Links

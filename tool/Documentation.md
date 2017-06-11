@@ -8,12 +8,12 @@ It's compatible with the [Identicon5](https://github.com/FrancisShanahan/Identic
 Usage
 -----
 
-``` Shell
+```
 identicon <ID>
 ```
 
 Generates an identicon from an ID. Writes the SVG code to the standard output.
 
-An ID must be a string of 18 hexadecimal digits.
+The ID must be a string of 18 hexadecimal digits.
 
-It's easy to forge an identicon if the ID can be freely manipulated by an attacker. It's recommended to use an output of a cryptographic hash function.
+It's easy to forge an identicon if the ID can be freely manipulated by the attacker. It's recommended to use output of a cryptographic hash function.
