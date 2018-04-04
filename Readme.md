@@ -26,5 +26,5 @@ Links
 * [Source code](https://github.com/Kleshni/identicon-generator/archive/master.zip).
 * [Git repository](https://github.com/Kleshni/identicon-generator.git).
 * [Issue tracker](https://github.com/Kleshni/identicon-generator/issues).
-* Bitmessage: BM-FHMGLusCyAEjonpwAYdxzfcyBszP.
+* Bitmessage: BM-2cT5WWccBgLsHTw5ADLcodTz4dbqdtrwrQ.
 * Mail: [kleshni@protonmail.ch](mailto:kleshni@protonmail.ch).
